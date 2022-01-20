@@ -18,7 +18,7 @@ Este teste irá avaliar seu nível de conhecimento na implementação de uma lay
 * Use o editor de código que preferir, e incentivamos que pesquise a fundo na internet a melhor implementação e solução de problemas encontrados.
 * Deverá funcionar perfeitamente nos Browsers: Microsoft Edge, Chrome, Safari, Firefox - todos na versão mais recente.
 
-Quando terminar, solicite um pull request.
+Quando terminar, solicite um pull request ou crie um zip e envie para o email a seguir. 
 Em caso de dúvidas, envie e-mail para contato@igualedigital.com.br
 
 **Boa sorte!**
