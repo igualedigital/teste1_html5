@@ -7,7 +7,8 @@ Este teste irá avaliar seu nível de conhecimento na implementação de uma lay
 1. Criar uma página HTML 5 responsiva e navegável com base no layout existente.
 2. Deve ser usado HTML 5.2 e CSS 3 - Você está livre para trabalhar com pré-processadores CSS (LeSS,SASS ou Stylus).
 3. Conheça e trabalhe com Grid e FlexBox - é uma recomendação! Mas conta como um plus para você.
-4. Não tenha pressa, se precisar pesquise bastante sobre o que e como irá implementar.
+4. Todo o código deverá estar comentado, explicando como e porque foi implementado de tal maneira.
+5. Não tenha pressa, se precisar pesquise bastante sobre o que e como irá implementar.
 
 ### MUITA ATENÇÃO
 
